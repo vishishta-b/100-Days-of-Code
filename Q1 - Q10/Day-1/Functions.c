@@ -1,5 +1,5 @@
 //Write a program to input two numbers and display their sum, difference, product, and quotient.
-//Name: Vatsal Agarwal
+//Name: Vishishta Biswas
 //SAP ID: 590023223 
 
 #include <stdio.h>
