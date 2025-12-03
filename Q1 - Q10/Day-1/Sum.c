@@ -1,5 +1,5 @@
 //Write a program to input two numbers and display their sum.
-//Name: Vatsal Agarwal
+//Name: Vishishta Biswas
 //SAP ID: 590023223 
 
 #include <stdio.h>
