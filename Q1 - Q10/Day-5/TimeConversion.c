@@ -1,6 +1,6 @@
 //Write a program to input time in seconds and convert it to hours:minutes:seconds format.
-//Name: Vatsal Agarwal
-//SAP ID: 590023223 
+//Name: Vishishta Biswas
+//SAP ID: 590025579 
 
 #include <stdio.h>
 int main() 
